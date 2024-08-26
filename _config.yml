@@ -6,7 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanxi Du"
+title                    : "Yanxi Du
+杜炎锡"
 description              : "Undergraduate student at Southeast University. Special Auditor at Osaka University"
 repository               : "duyanxi/duyanxi.github.io"
 google_scholar_stats_use_cdn : true
