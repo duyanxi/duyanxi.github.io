@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student majoring in Robotics Engineering at the School of Automation, Southeast University. Since 2021, I have been studying in the Visual and Cognition Laboratory, advised by Prof. Yangang Wang. Currently, I am studying as an exchange student at Computer Vision Lab at Osaka University under the supervision of Prof. Matsushita Yasuyuki and Prof. Fumio Okura.
+I am an undergraduate student majoring in Robotics Engineering at the School of Automation, Southeast University. Since 2021, I have been studying in the Visual and Cognition Laboratory, advised by Prof. Yangang Wang. Currently, I am studying as an exchange student at <a href='[http://cvl.ist.osaka-u.ac.jp/en/]'>Computer Vision Lab at Osaka University under the supervision of Prof. Matsushita Yasuyuki and Prof. Fumio Okura.
 
 My research interest includes 3D computer vision, computer graphics and robotics. 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total Prof. Matsushita Yasuyuki
 
 
 # 🔥 News
