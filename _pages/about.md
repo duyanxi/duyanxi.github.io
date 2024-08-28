@@ -27,13 +27,17 @@ My research interest includes 3D computer vision, computer graphics and robotics
 
 # 🤔 Research
 2024
+
 Multistage Image Story Generation (SEU Internation Summer School)
+
 Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu </a> & <a href='https://zongyuange.github.io'>Prof. Zongyuan Ge</a>
 
 2023
 
 2022
+
 Large Scale 3D Human Body Reconstruction (SRTP)
+
 Advisor: Prof.Yangang Wang
 
 # 🎖 Honors and Awards
