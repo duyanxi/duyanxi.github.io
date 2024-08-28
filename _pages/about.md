@@ -26,15 +26,14 @@ My research interest includes 3D computer vision, computer graphics and robotics
 # 📝 Publications 
 
 # 🤔 Research
-2024
+
+2024.08
 
 Multistage Image Story Generation (SEU Internation Summer School)
 
 Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu </a> & <a href='https://zongyuange.github.io'>Prof. Zongyuan Ge</a>
 
-2023
-
-2022
+2022.09 - 2023.10
 
 Large Scale 3D Human Body Reconstruction (SRTP)
 
@@ -50,4 +49,4 @@ Advisor: Prof. Yangang Wang
 
 # 💻 Internships
 # 🤗 Links
-Follow me on Zhihu: https://www.zhihu.com/people/du-yan-xi-37
+Follow me on Zhihu: <a href='https://www.zhihu.com/people/du-yan-xi-37'>Aidacra</a>
