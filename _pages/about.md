@@ -38,7 +38,7 @@ Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'
 
 Large Scale 3D Human Body Reconstruction (SRTP)
 
-Advisor: Prof.Yangang Wang
+Advisor: Prof. Yangang Wang
 
 # 🎖 Honors and Awards
 
