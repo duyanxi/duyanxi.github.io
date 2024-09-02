@@ -21,6 +21,8 @@ I am an undergraduate student majoring in Robotics Engineering at the School of 
 
 My research interest includes 3D computer vision, computer graphics and robotics. 
 
+🤗 Links：Follow me on Zhihu: <a href='https://www.zhihu.com/people/du-yan-xi-37'> Aidacra </a>
+
 # 🔥 News
 
 # 📝 Publications 
@@ -48,5 +50,4 @@ Advisor: Prof. Yangang Wang
 # 💬 Invited Talks
 
 # 💻 Internships
-# 🤗 Links
-Follow me on Zhihu: <a href='https://www.zhihu.com/people/du-yan-xi-37'> Aidacra </a>
+
