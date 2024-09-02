@@ -29,7 +29,7 @@ My research interest includes 3D computer vision, computer graphics and robotics
 
 2024.08
 
-Multistage Image Story Generation (SEU Internation Summer School)
+Multistage Image Story Generation (SEU International Summer School)
 
 Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu </a> & <a href='https://zongyuange.github.io'>Prof. Zongyuan Ge</a>
 
@@ -49,4 +49,4 @@ Advisor: Prof. Yangang Wang
 
 # 💻 Internships
 # 🤗 Links
-Follow me on Zhihu: <a href='https://www.zhihu.com/people/du-yan-xi-37'>Aidacra</a>
+Follow me on Zhihu: <a href='https://www.zhihu.com/people/du-yan-xi-37'> Aidacra </a>
