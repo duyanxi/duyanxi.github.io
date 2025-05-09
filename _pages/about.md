@@ -17,19 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student majoring in Robotics Engineering at the School of Automation, Southeast University. Since 2021, I have been studying in the Visual and Cognition Laboratory, advised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang </a> . Currently, I am working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University under the supervision of Prof. Matsushita Yasuyuki and Prof. Fumio Okura.
+I am an undergraduate student majoring in Robotics Engineering at the School of Automation, Southeast University. Since 2021, I have been studying in the Visual and Cognition Laboratory, advised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang </a> .I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University under the supervision of Prof. Matsushita Yasuyuki and Prof. Fumio Okura during 2024.9 to 2025.2.
 
-Currently, my research interests are 3D Gaussian Splatting and Multiple View Geometry.
+Currently, my research interests are 3D Vision, Computer Graphics and Robot Learning.
 
-🤗 Links：Follow me on Zhihu: <a href='https://www.zhihu.com/people/du-yan-xi-37'> Aidacra </a>
+Looking for collaborator interested in Embodied AI🤗
 
 # 🔥 News
 
 # 📝 Publications 
 
 # 🤔 Research
+2024.10 - 2025.02
 
-2024.08
+Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization (Osaka University FrontierLab Program)
+
+2024.08 - 2024.09
 
 Multistage Image Story Generation (SEU International Summer School)
 
@@ -45,7 +48,7 @@ Advisor: Prof. Yangang Wang
 
 # 📖 Educations
 - *2021.08 - 2025.10 (now)*, Undergraduate, School of Automation, Southeast University 
-- *2024.09 - 2025.03 (now)*, Special Auditor, Graduate School of Information Science and Technology, Osaka University
+- *2024.09 - 2025.02*, Special Auditor, Graduate School of Information Science and Technology, Osaka University
 
 # 💬 Invited Talks
 
