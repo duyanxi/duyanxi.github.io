@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yanxi Du
 杜炎锡"
-description              : "Undergraduate student at Southeast University， Special Auditor at Osaka University."
+description              : "Undergraduate student at Southeast University"
 repository               : "duyanxi/duyanxi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : du_yanxi
+  twitter          : du_yanx
   vine             :
   weibo            :
   xing             :
