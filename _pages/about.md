@@ -27,6 +27,10 @@ Looking for collaborator interested in Embodied AI🤗
 
 # 📝 Publications 
 
+
+T2C: Text-guided 4D Cloth Generation. ACM Trans. Multimedia Comput. Commun. Appl..
+Yu, Z., Zhao, Z., **Du, Y.**, Zheng, Y., Zuo, B., & Wang, Y. (2025). 
+
 # 🤔 Research
 2024.10 - 2025.02
 
