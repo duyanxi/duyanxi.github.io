@@ -26,6 +26,7 @@ Looking for collaborator interested in Embodied AI and 3DV🤗
 
 # 🔥 News
 - *My graduate thesis was recognized as an excellent thsis by the School of Automation.*
+
 # 📝 Publications 
 
 T2C: Text-guided 4D Cloth Generation. ACM Trans. Multimedia Comput. Commun. Appl..
