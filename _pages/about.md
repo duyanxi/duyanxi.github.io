@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student majoring in Robotics Engineering at the School of Automation, Southeast University. Since 2021, I have been studying in the Visual and Cognition Laboratory, advised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang </a> .I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University under the supervision of Prof. Matsushita Yasuyuki and Prof. Fumio Okura during 2024.9 to 2025.2.
-
+I am an undergraduate student majoring in Robot Engineering at the School of Automation, Southeast University. 
+I graduated from School of Automation, Southeast University（东南大学自动化学院）with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang </a>.
+I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University under the supervision of Prof. Matsushita Yasuyuki and Prof. Fumio Okura during 2024.9 to 2025.2.
 Currently, my research interests are 3D Vision, Computer Graphics and Robot Learning.
 
-Looking for collaborator interested in Embodied AI🤗
+Looking for collaborator interested in Embodied AI and 3DV🤗
 
 # 🔥 News
-
+My graduate thesis was recognized as an excellent thsis by th college .
 # 📝 Publications 
-
 
 T2C: Text-guided 4D Cloth Generation. ACM Trans. Multimedia Comput. Commun. Appl..
 Yu, Z., Zhao, Z., **Du, Y.**, Zheng, Y., Zuo, B., & Wang, Y. (2025). 
@@ -35,6 +35,8 @@ Yu, Z., Zhao, Z., **Du, Y.**, Zheng, Y., Zuo, B., & Wang, Y. (2025).
 2024.10 - 2025.02
 
 Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization (Osaka University FrontierLab Program)
+
+Advisor: Prof. Fumio Okura
 
 2024.08 - 2024.09
 
@@ -51,8 +53,8 @@ Advisor: Prof. Yangang Wang
 # 🎖 Honors and Awards
 
 # 📖 Educations
-- *2021.08 - 2025.10*, Undergraduate, Robot Engineering, School of Automation, Southeast University 
-- *2024.09 - 2025.02*, Special Auditor, Graduate School of Information Science and Technology, Osaka University
+- *2021.08 - 2025.10*, Undergraduate, School of Automation, Southeast University, Nanjing, China
+- *2024.09 - 2025.02*, Special Auditor, Graduate School of Information Science and Technology, Osaka University, Osaka, Japan
 
 # 💬 Invited Talks
 
