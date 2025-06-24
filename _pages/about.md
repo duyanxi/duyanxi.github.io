@@ -25,7 +25,7 @@ Currently, my research interests are 3D Vision, Computer Graphics and Robot Lear
 Looking for collaborator interested in Embodied AI and 3DV🤗
 
 # 🔥 News
-My graduate thesis was recognized as an excellent thsis by th college .
+- *My graduate thesis was recognized as an excellent thsis by the School of Automation.*
 # 📝 Publications 
 
 T2C: Text-guided 4D Cloth Generation. ACM Trans. Multimedia Comput. Commun. Appl..
