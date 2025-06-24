@@ -51,7 +51,7 @@ Advisor: Prof. Yangang Wang
 # 🎖 Honors and Awards
 
 # 📖 Educations
-- *2021.08 - 2025.10 (now)*, Undergraduate, School of Automation, Southeast University 
+- *2021.08 - 2025.10*, Undergraduate, Robot Engineering, School of Automation, Southeast University 
 - *2024.09 - 2025.02*, Special Auditor, Graduate School of Information Science and Technology, Osaka University
 
 # 💬 Invited Talks
