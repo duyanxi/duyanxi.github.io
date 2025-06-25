@@ -39,7 +39,7 @@ Currently, my research interests are
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2025</div><img src='images/t2c-teaser.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/t2c-teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **T2C: Text-guided 4D Cloth Generation**\\
