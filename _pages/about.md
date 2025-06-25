@@ -20,7 +20,7 @@ redirect_from:
 
 I graduated from School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Associate Prof. Yangang Wang (王雁刚) </a>.
 
-I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki(松下康之) and Associate Prof. Fumio Okura (大倉史生) during 2024.9 to 2025.2.
+I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki (松下康之) and Associate Prof. Fumio Okura (大倉史生) during 2024.9 to 2025.2.
 
 Currently, my research interests are 
 
@@ -39,16 +39,18 @@ Currently, my research interests are
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/t2c-teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/t2c-teaser.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **T2C: Text-guided 4D Cloth Generation**
 
-Yu, Z., Zhao, Z., **Du, Y.**, Zheng, Y., Zuo, B., & Wang, Y.
+Zhipeng Yu, Zimeng Zhao, **Yanxi Du**, Yuzhou Zheng, Binghui Zuo, Yangang Wang.
 
 ACM Transactions on Multimedia Computing, Communications, and Applications (2025)
 
 <a href='https://dl.acm.org/doi/10.1145/3735642'>Paper</a>/Webpage (coming soon)
+
+This paper introduces a novel approach named T2C, which employs a multilayered clothing representation and a physics-based clothing animation paradigm to generate text-controlled Clothed 4D Humans, expanding the boundaries of the aforementioned issues. 
 
 # 🤔 Research
 
