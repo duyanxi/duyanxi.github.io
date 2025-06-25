@@ -33,7 +33,10 @@ Currently, my research interests are 3D Vision, Computer Graphics and Robot Lear
 
 # 📝 Publications 
 
-T2C: Text-guided 4D Cloth Generation. ACM Trans. Multimedia Comput. Commun. Appl..
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/t2cteaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+T2C: Text-guided 4D Cloth Generation. ACM TOMM(https://dl.acm.org/doi/10.1145/3735642)
 Yu, Z., Zhao, Z., **Du, Y.**, Zheng, Y., Zuo, B., & Wang, Y. (2025). 
 
 # 🤔 Research
