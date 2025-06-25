@@ -80,12 +80,11 @@ Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'
 Advisor: Associate Prof. Yangang Wang
 
 # 🎖 Honors and Awards
+-2024 Southeast University Undergraduate Student Individual Scholarship in Social Activitiy.
 
 # 📖 Educations
 - *2021.08 - 2025.06*, Undergraduate, School of Automation, Southeast University, Nanjing, China
 - *2024.09 - 2025.02*, Special Auditor, Graduate School of Information Science and Technology, Osaka University, Osaka, Japan
-
-# 💬 Invited Talks
 
 # 💻 Internships
 
