@@ -56,25 +56,26 @@ This paper introduces a novel approach named T2C, which employs a multilayered c
 # 🤔 Research
 
 2024.12 - 2025.05
-Indoor Scene 3D Reconstruction with Multi-camera System (Bachelor Thsis)
+
+**Indoor Scene 3D Reconstruction with Multi-camera System** (Bachelor Thsis)
 
 Advisor: Associate Prof. Yangang Wang
 
 2024.10 - 2025.02
 
-Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization (Osaka University FrontierLab Program)
+**Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization** (Osaka University FrontierLab Program)
 
 Advisor: Associate Prof. Fumio Okura
 
 2024.08 - 2024.09
 
-Multistage Image Story Generation (SEU International Summer School)
+**Multistage Image Story Generation** (SEU International Summer School)
 
 Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu (陆慧敏) </a> & <a href='https://zongyuange.github.io'>Associate Prof. Zongyuan Ge (戈宗元)</a>
 
 2022.09 - 2023.10
 
-Large Scale 3D Human Body Reconstruction (SRTP)
+**Large Scale 3D Human Body Reconstruction** (SRTP)
 
 Advisor: Associate Prof. Yangang Wang
 
