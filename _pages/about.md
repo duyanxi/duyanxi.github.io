@@ -16,16 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+**Looking for collaborator interested in Embodied AI and 3DV🤗**
 
-I am an undergraduate student majoring in Robot Engineering at the School of Automation, Southeast University. 
 I graduated from School of Automation, Southeast University（东南大学自动化学院）with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang </a>.
+
 I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University under the supervision of Prof. Matsushita Yasuyuki and Prof. Fumio Okura during 2024.9 to 2025.2.
+
 Currently, my research interests are 3D Vision, Computer Graphics and Robot Learning.
 
-Looking for collaborator interested in Embodied AI and 3DV🤗
-
 # 🔥 News
-- *My graduate thesis was recognized as an excellent thsis by the School of Automation.*
+- *2025.06* : I graduate from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
 
 # 📝 Publications 
 
@@ -54,7 +54,7 @@ Advisor: Prof. Yangang Wang
 # 🎖 Honors and Awards
 
 # 📖 Educations
-- *2021.08 - 2025.10*, Undergraduate, School of Automation, Southeast University, Nanjing, China
+- *2021.08 - 2025.06*, Undergraduate, School of Automation, Southeast University, Nanjing, China
 - *2024.09 - 2025.02*, Special Auditor, Graduate School of Information Science and Technology, Osaka University, Osaka, Japan
 
 # 💬 Invited Talks
