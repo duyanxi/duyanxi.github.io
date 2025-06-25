@@ -25,7 +25,11 @@ I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en
 Currently, my research interests are 3D Vision, Computer Graphics and Robot Learning.
 
 # 🔥 News
-- *2025.06* : I graduate from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
+- *2025.06*: I graduate from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
+
+- *2025.05*: One paper was accepted by ACM TOMM.
+
+- *2024.05*: I was admitted to Osaka University as an exchange student.
 
 # 📝 Publications 
 
