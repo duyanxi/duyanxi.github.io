@@ -33,7 +33,7 @@ Currently, my research interests are 3D Vision, Computer Graphics and Robot Lear
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/t2cteaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/t2c-teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **T2C: Text-guided 4D Cloth Generation**
