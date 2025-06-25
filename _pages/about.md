@@ -18,11 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 **Looking for RA/Intern positions during 2025.9~2026.3**
 
-I graduated from School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang (王雁刚) </a>.
+I graduated from School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Associate Prof. Yangang Wang (王雁刚) </a>.
 
-I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki(松下康之) and Prof. Fumio Okura (大倉史生) during 2024.9 to 2025.2.
+I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki(松下康之) and Associate Prof. Fumio Okura (大倉史生) during 2024.9 to 2025.2.
 
-Currently, my research interests are 3D Vision, Computer Graphics and Robot Learning.
+Currently, my research interests are 
+
+- Optimization and application of 3D Gaussian Splatting.
+
+- 3D/4D Human Body Pose Estimation and Recovery.
+
+- Large-scale 3D Surface Reconstruction. 
 
 # 🔥 News
 - *2025.06*: I graduate from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
@@ -45,23 +51,29 @@ ACM Transactions on Multimedia Computing, Communications, and Applications (2025
 <a href='https://dl.acm.org/doi/10.1145/3735642'>Paper</a>/Webpage (coming soon)
 
 # 🤔 Research
+
+2024.12 - 2025.05
+Indoor Scene 3D Reconstruction with Multi-camera System (Bachelor Thsis)
+
+Advisor: Associate Prof. Yangang Wang
+
 2024.10 - 2025.02
 
 Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization (Osaka University FrontierLab Program)
 
-Advisor: Prof. Fumio Okura
+Advisor: Associate Prof. Fumio Okura
 
 2024.08 - 2024.09
 
 Multistage Image Story Generation (SEU International Summer School)
 
-Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu </a> & <a href='https://zongyuange.github.io'>Prof. Zongyuan Ge</a>
+Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu (陆慧敏) </a> & <a href='https://zongyuange.github.io'>Associate Prof. Zongyuan Ge (戈宗元)</a>
 
 2022.09 - 2023.10
 
 Large Scale 3D Human Body Reconstruction (SRTP)
 
-Advisor: Prof. Yangang Wang
+Advisor: Associate Prof. Yangang Wang
 
 # 🎖 Honors and Awards
 
