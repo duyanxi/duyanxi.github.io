@@ -39,11 +39,10 @@ Currently, my research interests are
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/t2c-teaser.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/t2c-teaser.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**T2C: Text-guided 4D Cloth Generation**
-
+**T2C: Text-guided 4D Cloth Generation**\\
 Zhipeng Yu, Zimeng Zhao, **Yanxi Du**, Yuzhou Zheng, Binghui Zuo, Yangang Wang.
 
 ACM Transactions on Multimedia Computing, Communications, and Applications (2025)
