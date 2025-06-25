@@ -53,7 +53,7 @@ This paper introduces a novel approach named T2C, which employs a multilayered c
 </div>
 </div>
 
-# 🤔 Research
+# 🤔 Program
 
 2024.12 - 2025.05
 
