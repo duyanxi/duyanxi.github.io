@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 **Looking for collaborator interested in Embodied AI and 3DV🤗**
+**Looking for RA/Intern positions from 2025.9~2026.3**
 
-I graduated from School of Automation, Southeast University（东南大学自动化学院）with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang </a>.
+I graduated from School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang (王雁刚) </a>.
 
-I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University under the supervision of Prof. Matsushita Yasuyuki and Prof. Fumio Okura during 2024.9 to 2025.2.
+I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki(松下康之) and Prof. Fumio Okura (大倉史生) during 2024.9 to 2025.2.
 
 Currently, my research interests are 3D Vision, Computer Graphics and Robot Learning.
 
