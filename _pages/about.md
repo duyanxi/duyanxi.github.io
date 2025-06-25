@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-**Looking for collaborator interested in Embodied AI and 3DV🤗**
 **Looking for RA/Intern positions from 2025.9~2026.3**
 
 I graduated from School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang (王雁刚) </a>.
