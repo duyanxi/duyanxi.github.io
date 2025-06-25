@@ -51,7 +51,7 @@ ACM Transactions on Multimedia Computing, Communications, and Applications (2025
 
 This paper introduces a novel approach named T2C, which employs a multilayered clothing representation and a physics-based clothing animation paradigm to generate text-controlled Clothed 4D Humans, expanding the boundaries of the aforementioned issues. 
 </div>
-</div>
+
 
 # 🤔 Research
 
