@@ -24,11 +24,11 @@ I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en
 
 Currently, my research interests are 
 
-- Optimization and application of 3D Gaussian Splatting.
+- Optimization and Application of 3D Gaussian Splatting.
 
 - 3D/4D Human Body Pose Estimation and Recovery.
 
-- Large-scale 3D Surface Reconstruction. 
+- Multiple View Geometry and 3D Reconstruction. 
 
 # 🔥 News
 - *2025.06*: I graduate from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
@@ -55,32 +55,24 @@ This paper introduces a novel approach named T2C, which employs a multilayered c
 
 # 🤔 Programs
 
-2024.12 - 2025.05
-
-**Indoor Scene 3D Reconstruction with Multi-camera System** (Bachelor Thsis)
+- *2024.12 - 2025.05* **Indoor Scene 3D Reconstruction with Multi-camera System** (Bachelor Thsis)
 
 Advisor: Associate Prof. Yangang Wang
 
-2024.10 - 2025.02
-
-**Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization** (Osaka University FrontierLab Program)
+- *2024.10 - 2025.02* **Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization** (Osaka University FrontierLab Program)
 
 Advisor: Associate Prof. Fumio Okura
 
-2024.08 - 2024.09
-
-**Multistage Image Story Generation** (SEU International Summer School)
+- *2024.08 - 2024.09* **Multistage Image Story Generation** (SEU International Summer School)
 
 Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu (陆慧敏) </a> & <a href='https://zongyuange.github.io'>Associate Prof. Zongyuan Ge (戈宗元)</a>
 
-2022.09 - 2023.10
-
-**Large Scale 3D Human Body Reconstruction** (SRTP)
+-*2022.09 - 2023.10* **Large Scale 3D Human Body Reconstruction** (SRTP)
 
 Advisor: Associate Prof. Yangang Wang
 
 # 🎖 Honors and Awards
--2024 Southeast University Undergraduate Student Individual Scholarship in Social Activitiy.
+- *2024* Southeast University Undergraduate Student Individual Scholarship in Social Activitiy.
 
 # 📖 Educations
 - *2021.08 - 2025.06*, Undergraduate, School of Automation, Southeast University, Nanjing, China
