@@ -24,14 +24,14 @@ I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en
 
 Currently, my research interests are 
 
-- Optimization and Application of 3D Gaussian Splatting.
-
 - 3D/4D Human Body Pose Estimation and Recovery.
 
-- Multiple View Geometry and 3D Reconstruction. 
+- Multi-view Geometry and 3D Reconstruction.
+
+- Optimization and Application of 3D Gaussian Splatting.
 
 # 🔥 News
-- *2025.06*: I graduate from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
+- *2025.06*: I graduated from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
 
 - *2025.05*: One paper was accepted by ACM TOMM.
 
