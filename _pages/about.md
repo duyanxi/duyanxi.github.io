@@ -53,7 +53,7 @@ This paper introduces a novel approach named T2C, which employs a multilayered c
 </div>
 </div>
 
-# 🤔 Programs
+# 📖 Programs
 
 **Indoor Scene 3D Reconstruction with Multi-camera System** (Bachelor Thsis)
 
