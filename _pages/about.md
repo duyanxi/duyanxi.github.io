@@ -57,7 +57,7 @@ We introduces T2C, a novel approach that employs a multilayered clothing represe
 
 *Dec 2024 - May 2025* Advisor: Associate Prof. Yangang Wang
 
-**Towards Sparse 3D Gaussian Splatting ** (Osaka University FrontierLab Program)
+**Towards Sparse 3D Gaussian Splatting** (Osaka University FrontierLab Program)
 
 *Oct 2024 - Feb 2025* Advisor: Associate Prof. Fumio Okura and Prof. Yasuyuki Matsushita
 
