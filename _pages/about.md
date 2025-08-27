@@ -49,7 +49,7 @@ ACM Transactions on Multimedia Computing, Communications, and Applications (2025
 
 <a href='https://dl.acm.org/doi/10.1145/3735642'>Paper</a>/Webpage (coming soon)
 
-This paper introduces a novel approach named T2C, which employs a multilayered clothing representation and a physics-based clothing animation paradigm to generate text-controlled Clothed 4D Humans.
+We introduces T2C, a novel approach that employs a multilayered clothing representation and a physics-based animation paradigm to generate text-controlled clothed human motion.
 </div>
 </div>
 
@@ -57,9 +57,7 @@ This paper introduces a novel approach named T2C, which employs a multilayered c
 
 **Indoor Scene 3D Reconstruction with Multi-camera System** (Bachelor Thsis)
 
-*2024.12 - 2025.05*
-
-Advisor: Associate Prof. Yangang Wang
+*2024.12 - 2025.05*  Advisor: Associate Prof. Yangang Wang
 
 **Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization** (Osaka University FrontierLab Program)
 
@@ -69,15 +67,11 @@ Advisor: Associate Prof. Fumio Okura
 
 **Multistage Image Story Generation** (SEU International Summer School)
 
-*2024.08 - 2024.09* 
-
-Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu (陆慧敏) </a> & <a href='https://zongyuange.github.io'>Associate Prof. Zongyuan Ge (戈宗元)</a>
+*2024.08 - 2024.09*   Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu (陆慧敏) </a> & <a href='https://zongyuange.github.io'>Associate Prof. Zongyuan Ge (戈宗元)</a>
 
 **Large Scale 3D Human Body Reconstruction** (SRTP)
 
-*2022.09 - 2023.10*
-
-Advisor: Associate Prof. Yangang Wang
+*2022.09 - 2023.10*  Advisor: Associate Prof. Yangang Wang
 
 # 🎖 Honors and Awards
 - *2024* Southeast University Undergraduate Student Individual Scholarship in Social Activitiy.
