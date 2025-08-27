@@ -1,12 +1,12 @@
+---
 permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from:
-
-/about/
-
-/about.html
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -16,81 +16,74 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Actively seeking Research Assistant / Intern positions for Fall 2025 - Summer 2026.
+**Looking for RA/Intern positions during 2025.9~2026.3**
 
-I am a recent graduate from the School of Automation, Southeast University (东南大学自动化学院), where I obtained my bachelor's degree under the supervision of <a href='https://www.yangangwang.com'>Associate Prof. Yangang Wang (王雁刚)</a>.
+I graduated from School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Associate Prof. Yangang Wang (王雁刚) </a>.
 
-I was an exchange student at the <a href='http://cvl.ist.osaka-u.ac.jp/en/'>Computer Vision Lab</a> at Osaka University (大阪大学), advised by Prof. Yasuyuki Matsushita (松下康之) and Associate Prof. Fumio Okura (大倉史生) from Sep 2024 to Feb 2025.
+I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki (松下康之) and Associate Prof. Fumio Okura (大倉史生) during 2024.9 to 2025.2.
 
-My current research interests include:
+Currently, my research interests are 
 
-3D/4D Human Modeling and Generation
+- 3D/4D Human Body Pose Estimation and Recovery.
 
-Multi-view Geometry and Neural Rendering
+- Multi-view Geometry and 3D Reconstruction.
 
+- Optimization and Application of 3D Gaussian Splatting.
 
-📖 Education
-Aug 2021 - Jun 2025, B.Eng. in Robotics Engineering, Southeast University, Nanjing, China
+# 🔥 News
+- *2025.06*: I graduated from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
 
-Sep 2024 - Feb 2025, Special Auditor, Graduate School of Information Science and Technology, Osaka University, Osaka, Japan
+- *2025.05*: One paper was accepted by ACM TOMM.
 
-🔥 News
-Jun 2025: Graduated from Southeast University. My bachelor's thesis was awarded Excellent Bachelor's Thesis (Top 15%) by the School of Automation.
+- *2024.05*: I was admitted to Osaka University as an exchange student.
 
-May 2025: Our paper, "T2C," was accepted by ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
+# 📝 Publications 
 
-May 2024: Admitted to Osaka University as a FrontierLab exchange student.
-
-📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/t2c-teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-T2C: Text-guided 4D Cloth Generation
-Zhipeng Yu, Zimeng Zhao, Yanxi Du, Yuzhou Zheng, Yangang Wang.
+**T2C: Text-guided 4D Cloth Generation**\\
+Zhipeng Yu, Zimeng Zhao, **Yanxi Du**, Yuzhou Zheng, Binghui Zuo, Yangang Wang.
 
-ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2025
+ACM Transactions on Multimedia Computing, Communications, and Applications (2025)
 
-Paper / Webpage (coming soon)
+<a href='https://dl.acm.org/doi/10.1145/3735642'>Paper</a>/Webpage (coming soon)
 
-This paper introduces T2C, a novel approach that employs a multilayered clothing representation and a physics-based animation paradigm to generate text-controlled 4D clothed humans.
-
+This paper introduces a novel approach named T2C, which employs a multilayered clothing representation and a physics-based clothing animation paradigm to generate text-controlled Clothed 4D Humans.
 </div>
 </div>
 
-🔬 Research Experience
-Towards Sparse-view 3D Gaussian Splatting (Osaka University FrontierLab Program)
-Oct 2024 - Feb 2025
+# 🤔 Programs
 
-Independently established the project environment, implementing and replicating the 3D Gaussian Splatting (3DGS) baseline model using PyTorch.
+**Indoor Scene 3D Reconstruction with Multi-camera System** (Bachelor Thsis)
 
-Proposed and implemented a novel depth regularization method and a feed-forward model to address model instability under sparse-view inputs.
+*2024.12 - 2025.05*
 
-Multi-stage Image Story Generation (SEU International Summer School)
-Aug 2024
+Advisor: Associate Prof. Yangang Wang
 
-Led a team to develop an image-to-story generation pipeline, achieving initial functionality through advanced prompt engineering and fine-tuning of the Google Gemini model.
+**Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization** (Osaka University FrontierLab Program)
 
-Deployed and benchmarked multiple large language models locally, conducting extensive experiments on prompt design to enhance narrative coherence and creativity.
+*2024.10 - 2025.02*
 
-Large-scale 3D Human Body Reconstruction (Student Research Training Program)
-Oct 2022 - Nov 2023
+Advisor: Associate Prof. Fumio Okura
 
-Implemented a baseline model based on OpenPose and YOLOX and conducted preliminary experiments and evaluations.
+**Multistage Image Story Generation** (SEU International Summer School)
 
-Assisted with building pseudo ground-truth on crowd datasets to promote research on pose estimation and human behavior understanding in large-scale crowded scenes.
+*2024.08 - 2024.09* 
 
-Indoor Scene 3D Reconstruction with Multi-camera System (Bachelor Thesis)
-Dec 2024 - May 2025
+Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu (陆慧敏) </a> & <a href='https://zongyuange.github.io'>Associate Prof. Zongyuan Ge (戈宗元)</a>
 
-My undergraduate thesis project, recognized as an Excellent Thesis.
+**Large Scale 3D Human Body Reconstruction** (SRTP)
 
-🎖 Honors and Awards
-Jun 2025: Excellent Bachelor's Thesis (Top 15%), School of Automation, SEU
+*2022.09 - 2023.10*
 
-Jun 2025: SEU Undergraduates Scholarship in Social Work
+Advisor: Associate Prof. Yangang Wang
 
-May 2023: Outstanding Individual in Social Practice, SEU
+# 🎖 Honors and Awards
+- *2024* Southeast University Undergraduate Student Individual Scholarship in Social Activitiy.
 
-💻 Internships
-(No internships yet)
+# 📖 Educations
+- *2021.08 - 2025.06*, Undergraduate, School of Automation, Southeast University, Nanjing, China
+- *2024.09 - 2025.02*, Special Auditor, Graduate School of Information Science and Technology, Osaka University, Osaka, Japan
 
+# 💻 Internships
