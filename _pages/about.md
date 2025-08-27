@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 **Actively seeking Research Assistant / Intern positions for Fall 2025 - Summer 2026.**
 
-I graduated from School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Associate Prof. Yangang Wang (王雁刚) </a>.
-
-I was working as an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki (松下康之) and Associate Prof. Fumio Okura (大倉史生) during 2024.9 to 2025.2.
+I graduated from School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Associate Prof. Yangang Wang (王雁刚) </a>. I was an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki (松下康之) and Associate Prof. Fumio Okura (大倉史生) during Sep 2024 to Feb 2025.
 
 Currently, my research interests are 
 
@@ -31,11 +29,11 @@ Currently, my research interests are
 - Optimization and Application of 3D Gaussian Splatting.
 
 # 🔥 News
-- *2025.06*: I graduated from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
+- *Jun 2025*: I graduated from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
 
-- *2025.05*: One paper was accepted by ACM TOMM.
+- *May 2025*: One paper was accepted by ACM TOMM.
 
-- *2024.05*: I was admitted to Osaka University as an exchange student.
+- *May 2024*: I was admitted to Osaka University as an exchange student.
 
 # 📝 Publications 
 
@@ -57,27 +55,28 @@ We introduces T2C, a novel approach that employs a multilayered clothing represe
 
 **Indoor Scene 3D Reconstruction with Multi-camera System** (Bachelor Thsis)
 
-*2024.12 - 2025.05*  Advisor: Associate Prof. Yangang Wang
+*Dec 2024 - May 2025*  Advisor: Associate Prof. Yangang Wang
 
-**Towards Sparse 3D Gaussian Splatting with Depth Regularization and Robust Initialization** (Osaka University FrontierLab Program)
+**Towards Sparse 3D Gaussian Splatting ** (Osaka University FrontierLab Program)
 
-*2024.10 - 2025.02*
-
-Advisor: Associate Prof. Fumio Okura
+*Oct 2024 - Feb 2025* Advisor: Associate Prof. Fumio Okura
 
 **Multistage Image Story Generation** (SEU International Summer School)
 
-*2024.08 - 2024.09*   Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu (陆慧敏) </a> & <a href='https://zongyuange.github.io'>Associate Prof. Zongyuan Ge (戈宗元)</a>
+*Aug 2024 - Sep 2024*   Adivisor:  <a href='https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html'>Prof. Huimin Lu (陆慧敏) </a> & <a href='https://zongyuange.github.io'>Associate Prof. Zongyuan Ge (戈宗元)</a>
 
 **Large Scale 3D Human Body Reconstruction** (SRTP)
 
-*2022.09 - 2023.10*  Advisor: Associate Prof. Yangang Wang
+*Sep 2022 - Oct 2023*  Advisor: Associate Prof. Yangang Wang
 
 # 🎖 Honors and Awards
-- *2024* Southeast University Undergraduate Student Individual Scholarship in Social Activitiy.
+- *Jun 2025*: Excellent Bachelor's Thesis (Top 15%), School of Automation, SEU
+- *Jun 2024*: SEU Undergraduates Scholarship in Social Work
+- *May 2023*: Outstanding Individual in Social Practice, SEU
 
 # 📖 Educations
-- *2021.08 - 2025.06*, Undergraduate, School of Automation, Southeast University, Nanjing, China
-- *2024.09 - 2025.02*, Special Auditor, Graduate School of Information Science and Technology, Osaka University, Osaka, Japan
+- *Aug 2021 - Jun 2025*, B.Eng. in Robot Engineering, School of Automation, Southeast University, Nanjing, China
+- *Sep 2024 - Feb 2025*, Exchange Student, Graduate School of Information Science and Technology, Osaka University, Osaka, Japan
 
 # 💻 Internships
+(No internships yet)
