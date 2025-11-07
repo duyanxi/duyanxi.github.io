@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as a research assistant at the Chinese University of Hong Kong, Shenzhen, under the supervision of <a href='https://gaplab.cuhk.edu.cn'> Assistant Prof. Xiaoguang Han (韩晓光) </a>. I graduated from School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang (王雁刚) </a>. I was an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki (松下康之) and Associate Prof. Fumio Okura (大倉史生) during Sep 2024 to Feb 2025.
+I am currently working as a research assistant at the Chinese University of Hong Kong, Shenzhen, under the supervision of <a href='https://gaplab.cuhk.edu.cn'> Assistant Prof. Xiaoguang Han (韩晓光) </a>. I graduated from the School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree majoring in robotics, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang (王雁刚) </a>. I was an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki (松下康之) and Associate Prof. Fumio Okura (大倉史生) during Sep 2024 to Feb 2025.
 
 Currently, my research interests are 
 
@@ -28,6 +28,8 @@ Currently, my research interests are
 - Optimization and Application of 3D Gaussian Splatting.
 
 # 🔥 News
+- *Oct 2025*: I joined CUHKSZ as a research assistant.
+
 - *Jun 2025*: I graduated from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
 
 - *May 2025*: One paper was accepted by ACM TOMM.
