@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yanxi Du
 杜炎锡"
-description              : "Undergraduate student at Southeast University"
+description              : 
 repository               : "duyanxi/duyanxi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanxi Du 杜炎锡"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Southeast University"
-  location         : "Nanjing, China"
+  bio              : "The Chinese University of Honk Kong, Shenzhen"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : 
