@@ -16,19 +16,22 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+**Actively looking for collaborators in Embodied AI.**
 
-I am currently working as a research assistant at the Chinese University of Hong Kong, Shenzhen, under the supervision of <a href='https://gaplab.cuhk.edu.cn'> Assistant Prof. Xiaoguang Han (韩晓光) </a>. I graduated from the School of Automation, Southeast University (东南大学自动化学院) with a bachelor's degree majoring in robotics, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang (王雁刚) </a>. I was an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Matsushita Yasuyuki (松下康之) and Associate Prof. Fumio Okura (大倉史生) during Sep 2024 to Feb 2025.
+I am currently an MPhil student at the Chinese University of Hong Kong, Shenzhen, under the supervision of <a href='https://gaplab.cuhk.edu.cn'> Assistant Prof. Xiaoguang Han (韩晓光) </a>. I graduated from the School of Automation, Southeast University with a bachelor's degree majoring in robotics, supervised by <a href='https://www.yangangwang.com'> Prof. Yangang Wang (王雁刚) </a>. I was an exchange student at <a href='http://cvl.ist.osaka-u.ac.jp/en/'> Computer Vision Lab </a> at Osaka University (大阪大学) under the supervision of Prof. Yasuyuki Matsushita (松下康之) and Associate Prof. Fumio Okura (大倉史生) during Sep 2024 to Feb 2025.
 
 Currently, my research interests are 
 
 - 3D/4D Human Body Pose Estimation and Recovery.
 
-- Multi-view Geometry and 3D Reconstruction.
+- 3D Generation and Feed-forward 3D Reconstruction.
 
-- Optimization and Application of 3D Gaussian Splatting.
+- Embodied AI and Robotics.
 
 # 🔥 News
-- *Oct 2025*: I joined CUHKSZ as a research assistant.
+- *Jan 2026*: I was admitted to CUHK-Shenzhen as an MPhil student.
+
+- *Oct 2025*: I joined CUHK-Shenzhen as a research assistant.
 
 - *Jun 2025*: I graduated from Southeast University and my graduate thesis was recognized as an excellent thsis by the School of Automation.
 
