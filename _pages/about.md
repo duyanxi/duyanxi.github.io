@@ -83,42 +83,6 @@ redirect_from:
     </div>
   </section>
 
-  <section class="home-section" id="programs">
-    <h2>Research Projects</h2>
-    <ul class="timeline-list">
-      <li>
-        <span class="timeline-date">Dec 2024 - May 2025</span>
-        <div>
-          <strong>Indoor Scene 3D Reconstruction with Multi-camera System</strong><br>
-          Bachelor's Thesis, advised by Associate Prof. Yangang Wang
-        </div>
-      </li>
-      <li>
-        <span class="timeline-date">Oct 2024 - Feb 2025</span>
-        <div>
-          <strong>Towards Sparse 3D Gaussian Splatting</strong><br>
-          Osaka University FrontierLab Program, advised by Associate Prof. Fumio Okura and Prof. Yasuyuki Matsushita
-        </div>
-      </li>
-      <li>
-        <span class="timeline-date">Aug 2024 - Sep 2024</span>
-        <div>
-          <strong>Multistage Image Story Generation</strong><br>
-          SEU International Summer School, advised by
-          <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/100000960_en.html">Prof. Huimin Lu</a>
-          and <a href="https://zongyuange.github.io">Associate Prof. Zongyuan Ge</a>
-        </div>
-      </li>
-      <li>
-        <span class="timeline-date">Sep 2022 - Oct 2023</span>
-        <div>
-          <strong>Large-scale 3D Human Body Reconstruction</strong><br>
-          SRTP project, advised by Associate Prof. Yangang Wang
-        </div>
-      </li>
-    </ul>
-  </section>
-
   <section class="home-section" id="education">
     <h2>Education</h2>
     <ul class="timeline-list compact-list">
