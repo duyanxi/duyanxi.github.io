@@ -40,7 +40,7 @@ redirect_from:
       <div class="hero-links">
         <a href="mailto:duyanxi1004@outlook.com">Email</a>
         <a href="https://github.com/duyanxi">GitHub</a>
-        <a href="https://gaplab.cuhk.edu.cn">GAP Lab</a>
+        WeChat: dyx1282820708
       </div>
     </div>
 
