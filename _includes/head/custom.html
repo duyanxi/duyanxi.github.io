@@ -148,17 +148,19 @@
     background: #ffffff;
   }
 
-  .monogram {
-    display: grid;
-    place-items: center;
-    width: 76px;
-    height: 76px;
+  .profile-photo-wrap {
+    width: 100%;
+    max-width: 220px;
     margin-bottom: 18px;
-    border-radius: 16px;
-    background: linear-gradient(135deg, #274f7d, #8a5a31);
-    color: #fff;
-    font-size: 1.75rem;
-    font-weight: 700;
+  }
+
+  .profile-photo {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: center 18%;
+    box-shadow: 0 14px 28px rgba(15, 23, 42, 0.12);
   }
 
   .summary-block h2 {
@@ -263,6 +265,10 @@
 
     .timeline-date {
       white-space: normal;
+    }
+
+    .profile-photo-wrap {
+      max-width: 180px;
     }
   }
 

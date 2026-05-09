@@ -37,7 +37,9 @@ redirect_from:
     </div>
 
     <aside class="hero-aside" aria-label="Profile summary">
-      <div class="monogram" aria-hidden="true">YD</div>
+      <div class="profile-photo-wrap">
+        <img class="profile-photo" src="/images/profile-photo.png" alt="Portrait of Yanxi Du">
+      </div>
       <div class="summary-block">
         <h2>Research Interests</h2>
         <ul class="focus-list">
