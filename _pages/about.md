@@ -29,6 +29,14 @@ redirect_from:
         I am actively looking for collaborators and internship opportunities in embodied AI,
         3D vision, and human-centric generation.
       </p>
+      <div class="hero-interests">
+        <h2>Research Interests</h2>
+        <ul class="focus-list">
+          <li>Human motion synthesis, human-object interaction, and human-scene interaction</li>
+          <li>3D generation and feed-forward 3D reconstruction</li>
+          <li>Embodied AI and world models</li>
+        </ul>
+      </div>
       <div class="hero-links">
         <a href="mailto:duyanxi1004@outlook.com">Email</a>
         <a href="https://github.com/duyanxi">GitHub</a>
@@ -39,14 +47,6 @@ redirect_from:
     <aside class="hero-aside" aria-label="Profile summary">
       <div class="profile-photo-wrap">
         <img class="profile-photo" src="/images/profile-photo.png" alt="Portrait of Yanxi Du">
-      </div>
-      <div class="summary-block">
-        <h2>Research Interests</h2>
-        <ul class="focus-list">
-          <li>Human motion synthesis, human-object interaction, and human-scene interaction</li>
-          <li>3D generation and feed-forward 3D reconstruction</li>
-          <li>Embodied AI and world models</li>
-        </ul>
       </div>
     </aside>
   </div>
