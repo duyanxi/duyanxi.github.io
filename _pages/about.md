@@ -27,7 +27,7 @@ redirect_from:
       </p>
       <p class="hero-note">
         I am actively looking for collaborators and internship opportunities in embodied AI,
-        3D vision, and human-centric generation.
+        3D vision and Human-centric AI.
       </p>
       <div class="hero-interests">
         <h2>Research Interests</h2>
