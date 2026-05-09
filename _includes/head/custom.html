@@ -57,6 +57,22 @@
     line-height: 1.75;
   }
 
+  /* Override the theme's legacy anchor offset hack so the hero content
+     doesn't get pulled under the sticky masthead on small screens. */
+  .page__content #about-me {
+    margin-top: 0 !important;
+    scroll-margin-top: 5.5rem;
+  }
+
+  .page__content #about-me::before {
+    content: none !important;
+    display: none !important;
+  }
+
+  .home-section {
+    scroll-margin-top: 5.5rem;
+  }
+
   .academic-home {
     margin: 28px auto 0;
     padding: 40px 44px 56px;
