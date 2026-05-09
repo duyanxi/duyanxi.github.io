@@ -1,0 +1,273 @@
+<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<link rel="manifest" href="images/site.webmanifest">
+
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<style>
+  body {
+    background: #ffffff;
+  }
+
+  .masthead {
+    background: rgba(255, 255, 255, 0.92);
+    border-bottom: 1px solid #e5e7eb;
+    backdrop-filter: blur(8px);
+  }
+
+  #main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px 64px;
+  }
+
+  .page {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+  }
+
+  .page__inner-wrap {
+    max-width: none;
+  }
+
+  .page__content {
+    font-size: 1rem;
+  }
+
+  .page__content p,
+  .page__content li {
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  .academic-home {
+    margin: 28px auto 0;
+    padding: 40px 44px 56px;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 12px 30px rgba(15, 23, 42, 0.05);
+  }
+
+  .hero-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.9fr) minmax(260px, 0.95fr);
+    gap: 40px;
+    align-items: start;
+  }
+
+  .hero-kicker {
+    margin: 0 0 10px;
+    color: #8a5a31;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+
+  .hero-name {
+    margin: 0 0 14px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    font-size: 2.6rem !important;
+    line-height: 1.1 !important;
+  }
+
+  .hero-name span {
+    display: inline-block;
+    margin-left: 0.4rem;
+    color: #5f5a53;
+    font-size: 0.78em;
+    font-weight: 500;
+  }
+
+  .hero-subtitle {
+    margin-bottom: 14px;
+    color: #2f2b26;
+    font-size: 1.08rem;
+  }
+
+  .hero-note {
+    margin: 18px 0 0;
+    color: #513722;
+    font-weight: 600;
+  }
+
+  .hero-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-top: 20px;
+  }
+
+  .hero-links a {
+    color: #214c88;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .hero-links a:hover {
+    text-decoration: underline;
+  }
+
+  .hero-aside {
+    padding: 22px 24px 24px;
+    border: 1px solid #e5e7eb;
+    background: #ffffff;
+  }
+
+  .monogram {
+    display: grid;
+    place-items: center;
+    width: 76px;
+    height: 76px;
+    margin-bottom: 18px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #274f7d, #8a5a31);
+    color: #fff;
+    font-size: 1.75rem;
+    font-weight: 700;
+  }
+
+  .summary-block h2 {
+    margin: 0 0 12px !important;
+    padding-bottom: 10px;
+    font-size: 1.15rem !important;
+  }
+
+  .focus-list {
+    margin: 0;
+    padding-left: 20px;
+  }
+
+  .focus-list li {
+    margin-bottom: 10px;
+  }
+
+  .home-section {
+    margin-top: 38px;
+  }
+
+  .home-section h2 {
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    font-size: 1.45rem;
+    border-bottom: 1px solid #d1d5db;
+  }
+
+  .timeline-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .timeline-list li {
+    display: grid;
+    grid-template-columns: 170px minmax(0, 1fr);
+    gap: 18px;
+    padding: 12px 0;
+    border-bottom: 1px solid #edf0f2;
+    align-items: start;
+  }
+
+  .timeline-list li:last-child {
+    border-bottom: 0;
+  }
+
+  .timeline-date {
+    color: #6b645b;
+    font-size: 0.94rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .publication-item {
+    display: grid;
+    grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+    gap: 26px;
+    align-items: start;
+  }
+
+  .publication-media img {
+    display: block;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.14);
+  }
+
+  .publication-body h3 {
+    margin: 0 0 8px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    font-size: 1.25rem !important;
+  }
+
+  .publication-authors,
+  .publication-venue,
+  .publication-links {
+    margin-bottom: 8px;
+  }
+
+  .publication-venue {
+    color: #6a4c2f;
+    font-weight: 600;
+  }
+
+  .publication-links a {
+    color: #214c88;
+    font-weight: 600;
+  }
+
+  @media (max-width: 900px) {
+    .academic-home {
+      padding: 28px 24px 40px;
+    }
+
+    .hero-grid,
+    .publication-item,
+    .timeline-list li {
+      grid-template-columns: 1fr;
+    }
+
+    .timeline-date {
+      white-space: normal;
+    }
+  }
+
+  @media (max-width: 640px) {
+    #main {
+      padding: 0 12px 40px;
+    }
+
+    .academic-home {
+      margin-top: 16px;
+      padding: 22px 16px 32px;
+    }
+
+    .hero-name {
+      font-size: 2rem !important;
+    }
+
+    .hero-links {
+      gap: 10px 14px;
+    }
+  }
+</style>
+
+<!-- end custom head snippets -->
