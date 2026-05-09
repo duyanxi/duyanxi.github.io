@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<section class="academic-home" id="about-me">
+<span class="anchor" id="about-me"></span>
+<section class="academic-home">
   <div class="hero-grid">
     <div class="hero-copy">
       <p class="hero-kicker">MPhil Student | Embodied AI and 3D Vision</p>
