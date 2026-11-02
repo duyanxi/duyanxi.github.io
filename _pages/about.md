@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /previous-home/
 title: ""
 excerpt: ""
 author_profile: false
